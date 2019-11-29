@@ -11,9 +11,3 @@
     align-items: center;
 
 }
-
-#servico .row div{
-    height: 200px;
-    background: green;
-    color: #ffffff;
-}
